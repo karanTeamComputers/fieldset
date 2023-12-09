@@ -64,6 +64,6 @@ input[type=radio]+label {
     input[type=radio] {
         position: relative;
         height: 10px;
-        left: -7px;
+        left: 22px;
     }
 }
